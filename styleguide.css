@@ -1,0 +1,16 @@
+:root {
+  --neutral-colors500: rgba(229, 229, 239, 1);
+  --white-darkwhite: rgba(255, 255, 255, 1);
+  --graygray-600: rgba(126, 130, 153, 1);
+  --black: rgba(0, 0, 0, 1);
+  --grayscalebackground: rgba(252, 252, 252, 1);
+  --font-stylelight: rgba(153, 161, 183, 1);
+  --icon-coloricon-two: rgba(227, 228, 233, 1);
+  --neutral-colorswhite: rgba(255, 255, 255, 1);
+  --secondarygrey500-primary-grey: rgba(224, 229, 242, 1);
+  --primarypurple-blue500-primary-color: rgba(67, 24, 255, 1);
+  --secondarygrey-300: rgba(244, 247, 254, 1);
+  --primarypurple-blue100: rgba(233, 227, 255, 1);
+  --primarypurple-blue700: rgba(34, 0, 183, 1);
+  
+}
